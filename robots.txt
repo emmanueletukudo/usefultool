@@ -1,0 +1,8 @@
+# robots.txt zu http://usefultools.bplaced.net
+User-agent: *
+
+Disallow: /
+
+
+
+
